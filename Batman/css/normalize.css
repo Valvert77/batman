@@ -75,6 +75,7 @@ pre {
 
 a {
   background-color: transparent;
+  text-decoration: none;
 }
 
 /**
@@ -346,4 +347,8 @@ template {
 
 [hidden] {
   display: none;
+}
+
+ul,ol{
+  list-style: none;
 }
